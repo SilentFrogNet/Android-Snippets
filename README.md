@@ -1,6 +1,6 @@
 # Android-Studio-Snippets
 
-A collection of Live Templates for Android Studio
+### A collection of Live Templates for Android Studio
 
 In this repository there are different file, one for each snippet:
  * **prm**: this shortcut add a snippet to check for permission
