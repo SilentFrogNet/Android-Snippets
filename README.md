@@ -17,3 +17,7 @@ There are also XML files that can be inported in Android Studio directly to add 
 
 ## List-Grid_RecycleView
 Is an exampre on how to use a RecycleView to show lists and grids
+
+
+## Copyright Notice
+Copyright (C) 2015 SilentFrogNet. Licensed under the Apache 2.0 license (see the LICENSE file).
