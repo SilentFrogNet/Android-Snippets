@@ -20,7 +20,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="Snackbar" value="Snackbar.make(findViewById(android.R.id.content), &quot;$text$&quot;, Snackbar.LENGTH_SHORT)&#10;        .setAction(&quot;$button$&quot;, new View.OnClickListener() {&#10;            @Override&#10;            public void onClick(View view) {&#10;                //TODO: the action performed on $button$ click&#10;                $END$&#10;            }&#10;        })&#10;        .show();" description="Create a new Snackbar" toReformat="true" toShortenFQNames="true">
+  <template name="snackbar" value="Snackbar.make(findViewById(android.R.id.content), &quot;$text$&quot;, Snackbar.LENGTH_SHORT)&#10;        .setAction(&quot;$button$&quot;, new View.OnClickListener() {&#10;            @Override&#10;            public void onClick(View view) {&#10;                //TODO: the action performed on $button$ click&#10;                $END$&#10;            }&#10;        })&#10;        .show();" description="Create a new Snackbar" toReformat="true" toShortenFQNames="true">
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="button" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
